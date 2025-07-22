@@ -10,9 +10,16 @@ This repository contains an interactive and visually rich Power BI dashboard tha
 - Dynamic filters and slicers for easy exploration
 - Visualizations: Bar charts, Line graphs, Pie charts, and KPIs
 
+🚀 How to Use
+1. Download `Sales Dashboard.pbix` from this repository.
+2. Open it using Power BI Desktop
+3. Explore or customize it with your own data.
+
 🛠️ Tools Used
 - Power BI Desktop
 - Data Cleaning & Transformation using Power Query
 - DAX for calculated columns and measures
+
+
 
 
